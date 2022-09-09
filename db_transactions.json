@@ -1,0 +1,40 @@
+{
+  "transactions": [
+    {
+      "name": "Silicon Institute of Technology",
+      "type": "income",
+      "amount": 3000,
+      "id": 3
+    },
+    {
+      "name": "Banana",
+      "type": "income",
+      "amount": 2000,
+      "id": 5
+    },
+    {
+      "name": "hello",
+      "type": "income",
+      "amount": 343,
+      "id": 9
+    },
+    {
+      "name": "hello",
+      "type": "expense",
+      "amount": 565,
+      "id": 10
+    },
+    {
+      "name": "Banana",
+      "type": "income",
+      "amount": 200,
+      "id": 11
+    },
+    {
+      "name": "hello",
+      "type": "income",
+      "amount": 200,
+      "id": 12
+    }
+  ]
+}
